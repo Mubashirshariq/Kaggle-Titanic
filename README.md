@@ -3,4 +3,5 @@
 
 The test.csv dataset contains similar information but does not disclose the “ground truth” for each passenger.
 
-predicted whether the other 418 passengers on board (found in test.csv) survived or not using the Logistic Regression Algorithm.
+
+Predicted whether the other 418 passengers on board (found in test.csv) survived or not using the Logistic Regression Algorithm.
